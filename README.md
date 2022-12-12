@@ -6,6 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://jolly-plant-0dda90100.2.azurestaticapps.net
+Youtube Link - https://youtu.be/yed7bc5DHws
 
 ## Azure technologies used for Project
 
